@@ -1,4 +1,4 @@
-# awesome-Robotic-Manipulation
+# awesome-robotic-manipulation
 This repository collects the studies on robotic manipulation.
 
 - RT-1: Robotics Transformer for real-world control at scale <br>
