@@ -14,4 +14,4 @@ This repository collects the studies on robotic manipulation.
 - DexMV: Imitation Learning for Dexterous Manipulation from Human Videos <br>
   [ECCV 2022](https://arxiv.org/abs/2108.05877) / [Code](https://github.com/yzqin/dexmv-sim) / [Project Page](https://yzqin.github.io/dexmv/)
 - PaLM-E: An Embodied Multimodal Language Model
-  [Paper](https://arxiv.org/abs/2303.03378) / [Project Page](https://palm-e.github.io/)
+  [Paper](https://arxiv.org/abs/2303.03378) / [Project Page](https://palm-e.github.io/) <br>
