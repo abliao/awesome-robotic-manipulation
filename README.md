@@ -2,6 +2,8 @@
 This repository collects the studies on robotic manipulation.
 
 ### Similar Work
+- ManiSkill: Generalizable Manipulation Skill Benchmark with Large-Scale Demonstrations <br>
+  [Paper](https://arxiv.org/abs/2107.14483) / [Code](https://github.com/haosulab/ManiSkill2)
 - RT-1: Robotics Transformer for real-world control at scale <br>
   [Paper](https://arxiv.org/abs/2212.06817) / [Code](https://github.com/google-research/robotics_transformer) / [Project Page](https://robotics-transformer.github.io/)
 - ChatGPT for Robotics: Design Principles and Model Abilities <br>
@@ -12,8 +14,6 @@ This repository collects the studies on robotic manipulation.
   [Paper](https://arxiv.org/abs/2303.03378) / [Project Page](https://palm-e.github.io/) 
 
 ### References
-- ManiSkill: Generalizable Manipulation Skill Benchmark with Large-Scale Demonstrations <br>
-  [Paper](https://arxiv.org/abs/2107.14483) / [Code](https://github.com/haosulab/ManiSkill2)
 - Graph Inverse Reinforcement Learning from Diverse Videos <br>
   [CoRL 2022 Oral](https://arxiv.org/abs/2207.14299) / [Code](https://github.com/SateeshKumar21/graph-inverse-rl) / [Project Page](https://sateeshkumar21.github.io/GraphIRL/)
 - DexMV: Imitation Learning for Dexterous Manipulation from Human Videos <br>
