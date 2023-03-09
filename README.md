@@ -12,6 +12,8 @@ This repository collects the studies on robotic manipulation.
   [Paper](https://robot-moo.github.io/assets/moo.pdf) / [Project Page](https://robot-moo.github.io/)
 - PaLM-E: An Embodied Multimodal Language Model <br>
   [Paper](https://arxiv.org/abs/2303.03378) / [Project Page](https://palm-e.github.io/) 
+- Scaling Robot Learning with Semantically Imagined Experience <br>
+  [Paper](https://arxiv.org/abs/2302.11550) / [Project Page](https://diffusion-rosie.github.io/)
 
 ### References
 - Graph Inverse Reinforcement Learning from Diverse Videos <br>
