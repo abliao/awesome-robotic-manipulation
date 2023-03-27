@@ -23,5 +23,5 @@ This repository collects the studies on robotic manipulation.
 - DexMV: Imitation Learning for Dexterous Manipulation from Human Videos <br>
   [ECCV 2022](https://arxiv.org/abs/2108.05877) / [Code](https://github.com/yzqin/dexmv-sim) / [Project Page](https://yzqin.github.io/dexmv/)
 - VIMA: General Robot Manipulation with Multimodal Prompts <br>
-  [Paper](https://arxiv.org/abs/2210.03094) / [Code](https://github.com/vimalabs/VIMA) / [Project](https://vimalabs.github.io/)
+  [Paper](https://arxiv.org/abs/2210.03094) / [Code](https://github.com/vimalabs/VIMA) / [Project Page](https://vimalabs.github.io/)
 
