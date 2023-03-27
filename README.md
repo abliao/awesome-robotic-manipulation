@@ -24,5 +24,5 @@ This repository collects the studies on robotic manipulation.
   [ECCV 2022](https://arxiv.org/abs/2108.05877) / [Code](https://github.com/yzqin/dexmv-sim) / [Project Page](https://yzqin.github.io/dexmv/)
 - VIMA: General Robot Manipulation with Multimodal Prompts <br>
   [Paper](https://arxiv.org/abs/2210.03094) / [Code](https://github.com/vimalabs/VIMA) / [Project Page](https://vimalabs.github.io/)
--Self-Instruct: Aligning Language Model with Self Generated Instructions
+- Self-Instruct: Aligning Language Model with Self Generated Instructions <br>
   [Paper](https://arxiv.org/pdf/2212.10560v1.pdf) / [Code](https://link.zhihu.com/?target=https%3A//github.com/yizhongw/self-instruct)
