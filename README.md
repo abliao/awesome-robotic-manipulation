@@ -14,6 +14,8 @@ This repository collects the studies on robotic manipulation.
   [Paper](https://arxiv.org/abs/2303.03378) / [Project Page](https://palm-e.github.io/) 
 - Scaling Robot Learning with Semantically Imagined Experience <br>
   [Paper](https://arxiv.org/abs/2302.11550) / [Project Page](https://diffusion-rosie.github.io/)
+- Text2Motion: From Natural Language Instructions to Feasible Plans <br>
+  [Paper](https://arxiv.org/abs/2303.12153) / [Project Page](https://sites.google.com/stanford.edu/text2motion)
 
 ### References
 - Graph Inverse Reinforcement Learning from Diverse Videos <br>
@@ -22,5 +24,4 @@ This repository collects the studies on robotic manipulation.
   [ECCV 2022](https://arxiv.org/abs/2108.05877) / [Code](https://github.com/yzqin/dexmv-sim) / [Project Page](https://yzqin.github.io/dexmv/)
 - VIMA: General Robot Manipulation with Multimodal Prompts <br>
   [Paper](https://arxiv.org/abs/2210.03094) / [Code](https://github.com/vimalabs/VIMA) / [Project](https://vimalabs.github.io/)
-- Text2Motion: From Natural Language Instructions to Feasible Plans <br>
-  [Paper](https://arxiv.org/abs/2303.12153) / [Project Page](https://sites.google.com/stanford.edu/text2motion)
+
