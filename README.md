@@ -22,7 +22,7 @@ This repository collects the studies on robotic manipulation.
   [ECCV 2022](https://arxiv.org/abs/2108.05877) / [Code](https://github.com/yzqin/dexmv-sim) / [Project Page](https://yzqin.github.io/dexmv/)
 - GenDexGrasp: Generalizable Dexterous Grasping <br>
   [ICRA 2023](https://arxiv.org/abs/2210.00722) / [Code](https://github.com/tengyu-liu/GenDexGrasp) / [Project Page](https://sites.google.com/view/gendexgrasp)
-### References
+### Others
 - Graph Inverse Reinforcement Learning from Diverse Videos <br>
   [CoRL 2022 Oral](https://arxiv.org/abs/2207.14299) / [Code](https://github.com/SateeshKumar21/graph-inverse-rl) / [Project Page](https://sateeshkumar21.github.io/GraphIRL/)
 - VIMA: General Robot Manipulation with Multimodal Prompts <br>
