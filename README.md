@@ -1,7 +1,7 @@
 # awesome-robotic-manipulation
 This repository collects the studies on robotic manipulation.
 
-### Similar Work
+### Multimodal Robot
 - ManiSkill2: A Unified Benchmark for Generalizable Manipulation Skills <br>
   [Paper](https://arxiv.org/abs/2302.04659) / [Code](https://github.com/haosulab/ManiSkill2)
 - RT-1: Robotics Transformer for real-world control at scale <br>
